@@ -1,0 +1,1 @@
+"""FRA application package."""
